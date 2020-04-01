@@ -1,0 +1,3 @@
+service_id,date,exception_type
+FULLW,20202708,2
+FULLW,20212708,2
